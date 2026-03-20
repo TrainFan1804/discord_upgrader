@@ -16,5 +16,5 @@ This script will automate this process for you.
 
 # Misc
 
-This script were not created, commissioned, approved, or provided by Discord 
+This script were **not** created, commissioned, approved, or provided by Discord 
 in any way.
