@@ -25,7 +25,7 @@ if [ ! -d "$TARGET_DIR" ]; then
 
     mkdir -p "$TARGET_DIR"
 
-    tar -xzf "$TEMP_DIR/disord_$REMOTE_VERSION.tar.gz" -C "$TARGET_DIR" --strip-components=1
+    tar -xzf "$TEMP_DIR/Discord_$REMOTE_VERSION.tar.gz" -C "$TARGET_DIR" --strip-components=1
 fi
 
 if [ -f "$TARGET_DIR/Discord" ]; then
